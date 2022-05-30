@@ -1,12 +1,20 @@
 {
-  "posts": [
+  "activities": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": 123456,
+      "activityType": "meeting",
+      "institution": "CV Anugrah Jaya",
+      "when": "2022-04-19",
+      "objective": "New Order",
+      "remarks": "Ada order twinlight"
     },
     {
-      "id": 2,
-      "title": "world"
+      "id": 654321,
+      "activityType": "meeting",
+      "institution": "CV Anugrah Kaya",
+      "when": "2022-04-25",
+      "objective": "Old Order",
+      "remarks": "Ada order twinlight"
     }
   ]
 }

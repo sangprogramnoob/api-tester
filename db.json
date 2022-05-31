@@ -2,7 +2,7 @@
   "activities": [
     {
       "id": 123456,
-      "activityType": "meeting",
+      "activityType": "Meeting",
       "institution": "CV Anugrah Jaya",
       "when": "2022-05-31 12:42",
       "objective": "New Order",
@@ -10,7 +10,7 @@
     },
     {
       "id": 654321,
-      "activityType": "meeting",
+      "activityType": "Meeting",
       "institution": "CV Anugrah Kaya",
       "when": "2022-05-31 12:45",
       "objective": "Old Order",
